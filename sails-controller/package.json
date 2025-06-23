@@ -1,0 +1,52 @@
+{
+  "_from": "sails-controller@^0.0.4",
+  "_id": "sails-controller@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-Lk8O7+b0NSIgXQD8aJ/APWDNfqr49o9ADuD34mtarP33G1OjkivehECr/PvX2eoqr3s4kz0cplzrShzYN0NTjQ==",
+  "_location": "/sails-controller",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "sails-controller@^0.0.4",
+    "name": "sails-controller",
+    "escapedName": "sails-controller",
+    "rawSpec": "^0.0.4",
+    "saveSpec": null,
+    "fetchSpec": "^0.0.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sails-controller/-/sails-controller-0.0.4.tgz",
+  "_shasum": "ecf780ceb31b5b013288a3b6d32b6af655890703",
+  "_spec": "sails-controller@^0.0.4",
+  "_where": "/Users/user/Documents/SevenOne/Sportsbook",
+  "author": {
+    "name": "ajbdscb"
+  },
+  "bugs": {
+    "url": "https://github.com/ajbdscb/sailsController/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "ajbdscb Sails Controller Import",
+  "homepage": "https://github.com/ajbdscb/sailsController#readme",
+  "keywords": [
+    "sails",
+    "controller",
+    "ajbdscb"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "sails-controller",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajbdscb/sailsController.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}
